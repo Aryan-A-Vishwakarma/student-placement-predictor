@@ -1,0 +1,21 @@
+{
+  "results": {
+    "Logistic Regression": {
+      "Accuracy": 0.6291666666666667,
+      "Precision": 0.6346153846153846,
+      "Recall": 0.5641025641025641,
+      "F1-Score": 0.5972850678733032,
+      "ROC-AUC": 0.6859842957403932
+    },
+    "Random Forest": {
+      "Accuracy": 0.6291666666666667,
+      "Precision": 0.6320754716981132,
+      "Recall": 0.5726495726495726,
+      "F1-Score": 0.600896860986547,
+      "ROC-AUC": 0.6761170175804322
+    }
+  },
+  "final_model": "Random Forest",
+  "train_size": 960,
+  "test_size": 240
+}
