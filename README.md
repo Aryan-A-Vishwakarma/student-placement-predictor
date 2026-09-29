@@ -362,5 +362,5 @@ click "Predict Placement" to see the result.
 
 ## Author
 
-**[Your Name Here]**
-[Your GitHub Profile Link] · [Your LinkedIn Profile Link]
+**[Aryan Vishwakarma]**
+
